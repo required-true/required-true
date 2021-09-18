@@ -7,26 +7,20 @@ I'm front-end web developer
 Techs that I've used at least once
 
 <p>
- 
-  <span>**Language**</span>
-
+ <span>Language</span>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> 
 </p>
 
 <p>
- 
-  **Framework & Library**
- 
+  Framework & Library
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /> 
 <p/>
 
 <p>
- 
-  **Development environment**
- 
+  Development environment
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" /> 
@@ -34,9 +28,7 @@ Techs that I've used at least once
 <p/>
 
 <p>
- 
-  **Version control**
- 
+  Version control
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-330F63?style=flat-square&logo=bitbucket&logoColor=white" />
