@@ -2,7 +2,7 @@
 
 I'm front-end web developer
 
-<h3>Tech Stack</h3>
+<h3>Tech Stack 🛠</h3>
 
 Techs that I've used at least once
 
@@ -11,8 +11,6 @@ Techs that I've used at least once
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-  
-  
 </p>
 
 **Framework & Library**
@@ -39,5 +37,6 @@ Techs that I've used at least once
 
 <br />
 <br />
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeokk)](https://hits.seeyoufarm.com)
