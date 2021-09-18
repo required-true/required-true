@@ -6,8 +6,9 @@ I'm front-end web developer
 
 Techs that I've used at least once
 
-**Language**
 <p>
+  **Language**
+
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> 
