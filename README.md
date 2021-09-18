@@ -24,4 +24,4 @@ Techs that I've used at least once
 <br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeokk)](https://hits.seeyoufarm.com)
-<a href="jaehyeokk.github.io" target="_blank"><img src="https://img.shields.io/static/v1?label&message=Tech Blog&color=blue" /></a>
+<a href="https://jaehyeokk.github.io" target="_blank"><img src="https://img.shields.io/static/v1?label&message=Tech Blog&color=blue" /></a>
