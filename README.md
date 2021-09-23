@@ -1,10 +1,10 @@
 <h3>Hi there 👋</h3>
 
-I'm front-end web developer
+- I'm front-end web developer
 
 <h3>Tech Stack 🛠</h3>
 
-Techs that I've used at least once
+- Techs that I've used at least once
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
