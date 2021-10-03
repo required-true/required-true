@@ -2,6 +2,8 @@
 
 - I'm front-end web developer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeokk&show_icons=true&theme=vue)
+
 <h3>Tech Stack 🛠</h3>
 
 - Techs that I've used at least once
