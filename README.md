@@ -2,7 +2,7 @@
 
 - I'm front-end web developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeokk&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeokk&show_icons=true&theme=vue-dark)
 
 <h3>Tech Stack 🛠</h3>
 
