@@ -1,6 +1,5 @@
 <h3>Hi there 👋</h3>
 
-- I'm front-end web developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeokk&show_icons=true&theme=vue-dark)
 
