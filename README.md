@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3>
+<h3>Hi there, I'm front-end web developer 👋</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeokk&show_icons=true&theme=vue-dark)
 
