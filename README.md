@@ -21,5 +21,5 @@
 
 <br />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeokk)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyeokk&count_bg=%23006FBE&title_bg=%23004170&icon=&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://jaehyeokk.github.io" target="_blank"><img src="https://img.shields.io/static/v1?label&message=Tech Blog&color=blue" /></a>
