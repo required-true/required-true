@@ -1,11 +1,8 @@
 <h3>Hi there 👋</h3>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaehyeokk&show_icons=true&theme=vue-dark)
 
 <h3>Tech Stack 🛠</h3>
-
-- Techs that I've used at least once
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
