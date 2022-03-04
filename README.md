@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fafafa" /> 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /> 
-  <img src="https://img.shields.io/badge/Nuxt-black?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-35495E?style=flat-square&logo=nuxt.js&logoColor=41B883" />
   <br />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
